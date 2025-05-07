@@ -1,0 +1,6 @@
+@StockQR_HostAddress = http://localhost:5180
+
+GET {{StockQR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
